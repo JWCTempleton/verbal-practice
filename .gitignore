@@ -30,8 +30,7 @@ yarn-error.log*
 
 # vercel
 .vercel
-/app/seed/route.ts
-
+/seed/route.ts
 # typescript
 *.tsbuildinfo
 next-env.d.ts
